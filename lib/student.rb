@@ -1,4 +1,4 @@
-Class Student 
+class Student 
 
   def hello 
     puts "Hey there! I'm so excited to learn stuff"
@@ -8,3 +8,4 @@ Class Student
     puts "Pick me!"
   end 
 
+end 
